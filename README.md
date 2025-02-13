@@ -1,1 +1,4 @@
-# Real-Time-Weather-Update
+git init
+git add .
+git commit -m "Initial commit"
+
